@@ -1,2 +1,4 @@
 let Name = "Vikaranth"
-let relation = "Brother"
+let relation = "Cousine"
+let job = "SoftwareDeveloper"
+let relation1 = "Brother"
