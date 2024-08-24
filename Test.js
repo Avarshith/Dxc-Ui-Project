@@ -1,3 +1,3 @@
 let Name = "Vikaranth"
-let relation = "Friend"
+let relation = "Cousine"
 let job = "SoftwareDeveloper"
